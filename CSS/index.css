@@ -299,6 +299,5 @@ body {
   transform: translate(0, -50%);
 }
 .carousel img {
-  width: 100%;
-  display: none;
+  
 }
